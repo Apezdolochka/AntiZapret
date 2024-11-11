@@ -25,3 +25,5 @@
 - Не работает `2_service_goodbye_discord_install.cmd`? Удостовертесь, что служба goodbyedpi запущена и имеет название GoodbyeDPI. После снова запустите `2_service_goodbye_discord_install.cmd` и перезапустите устройство.
 
 ### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `1_antizapret.cmd` и `2_service_antizapret_install.cmd`). После добавления, службу antizapret надо перезапустить
+
+~~Many thanks to [bol-van](https://github.com/bol-van/), creator of original [zapret](https://github.com/bol-van/zapret/) repository~~
