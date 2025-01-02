@@ -1,3 +1,4 @@
+## Более не обновляется 
 # AntiZapret
 Обход блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.
 
@@ -20,3 +21,5 @@
 - Не работает `2_service_goodbye_discord_install.cmd`? Удостовертесь, что служба goodbyedpi запущена и имеет название GoodbyeDPI. После снова запустите `2_service_goodbye_discord_install.cmd` и перезапустите устройство.
 
 ### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `2_service_antizapret_install.cmd`). После добавления, службу antizapret надо перезапустить
+
+## Более не обновляется 
